@@ -2,7 +2,6 @@ import React from 'react';
 import Header from './Header';
 import Order from './Order';
 import Inventory from './Inventory';
-import { Button } from '@thinkific/elements-library/src/Button'
 
 class App extends React.Component {
   render() {
